@@ -1,0 +1,47 @@
+.mainbox {
+	background-color: #ffffff;
+	
+}
+.light_blue {
+	background-color: #4169e1;
+	width: 800px;
+	height: 150px;
+	border-bottom: 5px #ffff00 solid;
+}
+.name {
+	color: #ffffff;
+}
+.blue_box1 {
+	background-color: #0000cd;
+	width: 800px;
+	height: 130px;
+	margin: 5px 0 0 0;
+}
+.grey_box {
+	background-color: #808080;
+	width: 800px;
+	height: 5px;
+	margin: 5px 0 5px 0;
+}
+.yellow_box {
+	background-color: #ffff00;
+	width: 800px;
+	height: 110px;
+	border-bottom: 5px #808080 solid;
+}
+.blue_box2 {
+	background-color: #0000cd;
+	width: 800px;
+	height: 110px;
+	margin: 10px 0 0 0;
+	text-align: right;
+	
+}
+.insite {
+	color: #ffffff;
+	padding-top: 80px;
+	padding-right: 2%;
+}
+.foto {
+	height: 110px;
+}
